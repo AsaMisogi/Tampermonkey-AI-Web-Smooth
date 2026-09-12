@@ -1,0 +1,38 @@
+{
+  "browser": "152.0.7977.83",
+  "messages": 600,
+  "framesPerSample": 24,
+  "description": "离线合成正文重新排版，不代表 ChatGPT/AI Studio 实际输入延迟或相对 v1.0 提速。",
+  "samples": [
+    {
+      "mode": "enabled",
+      "layoutMs": 167.86,
+      "styleMs": 121.59
+    },
+    {
+      "mode": "paused",
+      "layoutMs": 8952.96,
+      "styleMs": 1027.88
+    },
+    {
+      "mode": "enabled",
+      "layoutMs": 156.28,
+      "styleMs": 156.66
+    },
+    {
+      "mode": "paused",
+      "layoutMs": 8833.94,
+      "styleMs": 1008.81
+    },
+    {
+      "mode": "enabled",
+      "layoutMs": 155.64,
+      "styleMs": 125.31
+    },
+    {
+      "mode": "paused",
+      "layoutMs": 8832.35,
+      "styleMs": 1015.16
+    }
+  ]
+}
